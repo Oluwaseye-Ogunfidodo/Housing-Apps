@@ -1,0 +1,12 @@
+## First Time Locally
+
+- go to decktop
+- creat a folder e.g housing-apps
+- open that folder in VSCODE ( drag onto vscode icon )
+- open terminal command ( terminal new > new terminal )
+- git init ( initialize git )
+
+## First Time Remote
+
+- visit github.com
+- create new repoository
